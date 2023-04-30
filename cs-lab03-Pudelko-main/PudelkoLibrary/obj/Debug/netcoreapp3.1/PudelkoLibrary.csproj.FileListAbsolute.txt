@@ -1,0 +1,10 @@
+C:\Users\kryst\OneDrive\Pulpit\obiektowka\cs-lab03-Pudelko\cs-lab03-Pudelko-main\PudelkoLibrary\bin\Debug\netcoreapp3.1\PudelkoLibrary.deps.json
+C:\Users\kryst\OneDrive\Pulpit\obiektowka\cs-lab03-Pudelko\cs-lab03-Pudelko-main\PudelkoLibrary\bin\Debug\netcoreapp3.1\PudelkoLibrary.dll
+C:\Users\kryst\OneDrive\Pulpit\obiektowka\cs-lab03-Pudelko\cs-lab03-Pudelko-main\PudelkoLibrary\bin\Debug\netcoreapp3.1\PudelkoLibrary.pdb
+C:\Users\kryst\OneDrive\Pulpit\obiektowka\cs-lab03-Pudelko\cs-lab03-Pudelko-main\PudelkoLibrary\obj\Debug\netcoreapp3.1\PudelkoLibrary.csproj.AssemblyReference.cache
+C:\Users\kryst\OneDrive\Pulpit\obiektowka\cs-lab03-Pudelko\cs-lab03-Pudelko-main\PudelkoLibrary\obj\Debug\netcoreapp3.1\PudelkoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kryst\OneDrive\Pulpit\obiektowka\cs-lab03-Pudelko\cs-lab03-Pudelko-main\PudelkoLibrary\obj\Debug\netcoreapp3.1\PudelkoLibrary.AssemblyInfoInputs.cache
+C:\Users\kryst\OneDrive\Pulpit\obiektowka\cs-lab03-Pudelko\cs-lab03-Pudelko-main\PudelkoLibrary\obj\Debug\netcoreapp3.1\PudelkoLibrary.AssemblyInfo.cs
+C:\Users\kryst\OneDrive\Pulpit\obiektowka\cs-lab03-Pudelko\cs-lab03-Pudelko-main\PudelkoLibrary\obj\Debug\netcoreapp3.1\PudelkoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kryst\OneDrive\Pulpit\obiektowka\cs-lab03-Pudelko\cs-lab03-Pudelko-main\PudelkoLibrary\obj\Debug\netcoreapp3.1\PudelkoLibrary.dll
+C:\Users\kryst\OneDrive\Pulpit\obiektowka\cs-lab03-Pudelko\cs-lab03-Pudelko-main\PudelkoLibrary\obj\Debug\netcoreapp3.1\PudelkoLibrary.pdb

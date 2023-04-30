@@ -1,0 +1,17 @@
+C:\Users\kryst\OneDrive\Pulpit\obiektowka\cs-lab03-Pudelko\cs-lab03-Pudelko-main\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\kryst\OneDrive\Pulpit\obiektowka\cs-lab03-Pudelko\cs-lab03-Pudelko-main\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\kryst\OneDrive\Pulpit\obiektowka\cs-lab03-Pudelko\cs-lab03-Pudelko-main\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\kryst\OneDrive\Pulpit\obiektowka\cs-lab03-Pudelko\cs-lab03-Pudelko-main\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\kryst\OneDrive\Pulpit\obiektowka\cs-lab03-Pudelko\cs-lab03-Pudelko-main\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\kryst\OneDrive\Pulpit\obiektowka\cs-lab03-Pudelko\cs-lab03-Pudelko-main\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\kryst\OneDrive\Pulpit\obiektowka\cs-lab03-Pudelko\cs-lab03-Pudelko-main\ConsoleApp1\bin\Debug\netcoreapp3.1\PudelkoLibrary.dll
+C:\Users\kryst\OneDrive\Pulpit\obiektowka\cs-lab03-Pudelko\cs-lab03-Pudelko-main\ConsoleApp1\bin\Debug\netcoreapp3.1\PudelkoLibrary.pdb
+C:\Users\kryst\OneDrive\Pulpit\obiektowka\cs-lab03-Pudelko\cs-lab03-Pudelko-main\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\kryst\OneDrive\Pulpit\obiektowka\cs-lab03-Pudelko\cs-lab03-Pudelko-main\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kryst\OneDrive\Pulpit\obiektowka\cs-lab03-Pudelko\cs-lab03-Pudelko-main\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\kryst\OneDrive\Pulpit\obiektowka\cs-lab03-Pudelko\cs-lab03-Pudelko-main\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\kryst\OneDrive\Pulpit\obiektowka\cs-lab03-Pudelko\cs-lab03-Pudelko-main\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\kryst\OneDrive\Pulpit\obiektowka\cs-lab03-Pudelko\cs-lab03-Pudelko-main\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
+C:\Users\kryst\OneDrive\Pulpit\obiektowka\cs-lab03-Pudelko\cs-lab03-Pudelko-main\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\kryst\OneDrive\Pulpit\obiektowka\cs-lab03-Pudelko\cs-lab03-Pudelko-main\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\kryst\OneDrive\Pulpit\obiektowka\cs-lab03-Pudelko\cs-lab03-Pudelko-main\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
